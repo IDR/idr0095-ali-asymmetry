@@ -5,7 +5,7 @@
 ### idr-pilot
 | Task | Duration | Checked |
 | :----: |:----:| :----:|
-| Images| -- | -- |
+| Images| 2h | -- |
 | Rendering| -- | -- |
 | Annotations | -- | -- |
 
