@@ -4,8 +4,7 @@ transfer: "ln_s"
 exclude: "clientpath"
 skip:
   - checksum
-parallel_upload: "8"
-parallel_fileset: "8"
+readers: readers.txt
 columns:
   - target
   - path
