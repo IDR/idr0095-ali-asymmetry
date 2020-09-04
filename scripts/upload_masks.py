@@ -28,9 +28,9 @@ def process_experiment(project):
             mask_folder = os.path.join("/", base)
 
             mask_name = "%s-%03d-Mask.tif" % (
-                os.path.basename(base), image.series)
+                os.path.basename(base), image.series + 1)
             mask_path = os.path.join(mask_folder, mask_name)
-            assert os.path.exists(mask_path), "%s does not exist"
+            assert os.path.exists(mask_path), "%s does not exist" % mask_path
 
 
 def main(argv):
