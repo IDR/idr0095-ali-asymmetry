@@ -1,6 +1,6 @@
-Dataset:name:AO1TO1-Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200804-ftp/Experiment_A_Figure3/AO1TO1-Trial1/
-Dataset:name:AO1TO1-Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200804-ftp/Experiment_A_Figure3/AO1TO1-Trial2/
-Dataset:name:AO1TO2-Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200804-ftp/Experiment_A_Figure3/AO1TO2-Trial1/
-Dataset:name:AO1TO2-Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200804-ftp/Experiment_A_Figure3/AO1TO2-Trial2/
-Dataset:name:AO1TOid-Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200804-ftp/Experiment_A_Figure3/AO1TOid-Trial1/
-Dataset:name:AO1TOid-Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200804-ftp/Experiment_A_Figure3/AO1TOid-Trial2/
+Project:name:idr0095-ali-asymmetry/experimentA/Dataset:name:AO1TO1-Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/AO1TO1-Trial1/
+Project:name:idr0095-ali-asymmetry/experimentA/Dataset:name:AO1TO1-Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/AO1TO1-Trial2/
+Project:name:idr0095-ali-asymmetry/experimentA/Dataset:name:AO1TO2-Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/AO1TO2-Trial1/
+Project:name:idr0095-ali-asymmetry/experimentA/Dataset:name:AO1TO2-Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/AO1TO2-Trial2/
+Project:name:idr0095-ali-asymmetry/experimentA/Dataset:name:AO1TOid-Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/AO1TOid-Trial1/
+Project:name:idr0095-ali-asymmetry/experimentA/Dataset:name:AO1TOid-Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/AO1TOid-Trial2/
