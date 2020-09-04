@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 import argparse
-impor glob
+import glob
 import logging
 import omero.cli
 import omero.gateway
@@ -16,7 +16,7 @@ log = logging.getLogger()
 
 
 def find_masks(project):
-    mask_map = {}
+    mask_paths = []
     datasets = project.listChildren()
     for dataset in datasets:
         log.debug("Entering %s" % dataset.getName())
@@ -35,14 +35,14 @@ def find_masks(project):
             if not os.path.exists(mask_path):
                 log.error("%s does not exist" % mask_path)
             else:
-                mask_map[image] = mask_path
-    return mask_map
+                mask_paths.append(mask_path)
+    return mask_paths
 
 
 def check_unused_masks(mask_paths):
     tiff_files = set(glob.glob(
         '/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/**/*.tif'))
-    missing_masks = tiff_files.difference(mask_paths))
+    missing_masks = tiff_files.difference(mask_paths)
     for f in missing_masks:
         log.error("%s is not associated with an image" % f)
 
@@ -61,16 +61,16 @@ def main(argv):
             level=logging.INFO - 10 * args.verbose + 10 * args.quiet)
     with omero.cli.cli_login() as c:
         conn = omero.gateway.BlitzGateway(client_obj=c.get_client())
-        mask_map = {}
-        for experiment in ['experimentA', 'experimentB', 'experimentC']:
+        mask_paths = []
+]        for experiment in ['experimentA', 'experimentB', 'experimentC']:
             project = conn.getObject(
                 'Project',
                 attributes={'name': 'idr0095-ali-asymmetry/%s' % experiment})
             log.info("Entering %s" % project.getName())
-            mask_map.update(find_masks(project))
+            mask_paths.append(find_masks(project))
 
     # Check all masks are associated with an image
-    check_unused_masks(set(mask_map.values()))
+    check_unused_masks(set(mask_paths))
 
 
 if __name__ == "__main__":
