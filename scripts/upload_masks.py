@@ -16,10 +16,9 @@ log = logging.getLogger()
 
 def process_experiment(project):
     datasets = project.listChildren()
-    log.debug("Found %s datasets" % len(datasets))
     for d in datasets:
+        log.debug("Entering %s" % dataset.getName())
         images = d.listChildren()
-        log.debug("Found %s images" % len(images))
         for image in images:
             log.debug("Finding mask for %s" % image.getName())
             client_paths = image.getImportedImageFilePaths()['client_paths']
@@ -52,7 +51,7 @@ def main(argv):
             project = conn.getObject(
                 'Project',
                 attributes={'name': 'idr0095-ali-asymmetry/%s' % experiment})
-            log.info("Processing %s" % project.getName())
+            log.info("Entering %s" % project.getName())
             process_experiment(project)
 
 
