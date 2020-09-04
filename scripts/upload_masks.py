@@ -16,9 +16,9 @@ log = logging.getLogger()
 
 def process_experiment(project):
     datasets = project.listChildren()
-    for d in datasets:
+    for dataset in datasets:
         log.debug("Entering %s" % dataset.getName())
-        images = d.listChildren()
+        images = dataset.listChildren()
         for image in images:
             log.debug("Finding mask for %s" % image.getName())
             client_paths = image.getImportedImageFilePaths()['client_paths']
