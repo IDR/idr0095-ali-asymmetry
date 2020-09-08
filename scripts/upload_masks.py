@@ -6,9 +6,11 @@ import logging
 import omero.cli
 import omero.gateway
 from omero_upload import upload_ln_s
+from omero.model import FileAnnotationI
 import os.path
 import sys
 
+OMERO_DATA_DIR = "/data/OMERO"
 NAMESPACE = 'openmicroscopy.org/idr/analysis/original'
 MIMETYPE = 'image/tiff'
 
@@ -29,8 +31,21 @@ MASK_MAPPING = {
 log = logging.getLogger()
 
 
-def find_masks(project):
+def upload_and_link(conn, image, attachment):
+    log.info("Uploading and linking %s to %s" % (attachment, image.getName()))
+    fo = upload_ln_s(conn.c, attachment, OMERO_DATA_DIR, MIMETYPE)
+    fa = FileAnnotationI()
+    fa.setFile(fo._obj)
+    fa.setNs(omero.rtypes.rstring(NAMESPACE))
+    fa = conn.getUpdateService().saveAndReturnObject(fa)
+    fa = omero.gateway.FileAnnotationWrapper(conn, fa)
+    image.linkAnnotation(fa)
+
+
+def link_masks(conn, name):
     mask_paths = []
+    project = conn.getObject('Project', attributes={'name': name})
+    log.info("Entering %s" % project.getName())
     datasets = project.listChildren()
     for dataset in datasets:
         log.debug("Entering %s" % dataset.getName())
@@ -55,6 +70,7 @@ def find_masks(project):
                 log.error("%s does not exist" % mask_path)
             else:
                 mask_paths.append(mask_path)
+                upload_and_link(conn, mask_path)
     return mask_paths
 
 
@@ -82,14 +98,11 @@ def main(argv):
         conn = omero.gateway.BlitzGateway(client_obj=c.get_client())
         mask_paths = []
         for experiment in ['experimentA', 'experimentB', 'experimentC']:
-            project = conn.getObject(
-                'Project',
-                attributes={'name': 'idr0095-ali-asymmetry/%s' % experiment})
-            log.info("Entering %s" % project.getName())
-            mask_paths.extend(find_masks(project))
+            p = link_masks(conn, 'idr0095-ali-asymmetry/%s' % experiment)
+            mask_paths.extend(p)
 
-    # Check all masks are associated with an image
-    check_unused_masks(set(mask_paths))
+        # Check all masks are associated with an image
+        check_unused_masks(set(mask_paths))
 
 
 if __name__ == "__main__":
