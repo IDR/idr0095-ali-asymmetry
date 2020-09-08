@@ -31,7 +31,7 @@ MASK_MAPPING = {
 log = logging.getLogger()
 
 
-def upload_and_link(conn, image, attachment):
+def upload_and_link(conn, attachment, image):
     log.info("Uploading and linking %s to %s" % (attachment, image.getName()))
     fo = upload_ln_s(conn.c, attachment, OMERO_DATA_DIR, MIMETYPE)
     fa = FileAnnotationI()
@@ -70,7 +70,7 @@ def link_masks(conn, name):
                 log.error("%s does not exist" % mask_path)
             else:
                 mask_paths.append(mask_path)
-                upload_and_link(conn, mask_path)
+                upload_and_link(conn, mask_path, image)
     return mask_paths
 
 
