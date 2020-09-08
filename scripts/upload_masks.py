@@ -15,7 +15,7 @@ MIMETYPE = 'image/tiff'
 # Most masks can easily be associated to the corresponding nd2 file as the
 # name of the directory/file prefix matches the nd2 filename. The mapping
 # below handles the cases where there is a mismatch in the uploaded data.
-MASK_MAPPING = [
+MASK_MAPPING = {
     "AO1TO1-Trial1/HG/HG": "AO1TO1-Trial1/HG/HG105",
     "AO1TO2-Trial1/HG/HG": "AO1TO2-Trial1/HG/HG105",
     "AO1TOid-Trial1/HG/HG": "AO1TOid-Trial1/HG/HG105",
@@ -24,7 +24,7 @@ MASK_MAPPING = [
     "DAStag_Trial2/DASnoO1V1/DASnoO1V1": "DAStag_Trial2/no/no",
     "Notag_Trial2/ATnoO1V1/ATnoO1V1": "Notag_Trial2/no/no",
     "Notag_Trial3/ATnoO1V1/ATnoO1V1": "Notag_Trial3/no/no",
-]
+}
 
 log = logging.getLogger()
 
