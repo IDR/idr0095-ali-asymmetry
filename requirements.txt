@@ -1,1 +1,3 @@
 omero-upload
+omero-rois
+skimage

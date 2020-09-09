@@ -6,8 +6,10 @@ import logging
 import omero.cli
 import omero.gateway
 from omero_upload import upload_ln_s
-from omero.model import FileAnnotationI
+from omero.model import FileAnnotationI, ImageI
+from omero_rois import masks_from_label_image
 import os.path
+from skimage.io import imread
 import sys
 
 OMERO_DATA_DIR = "/data/OMERO"
@@ -32,6 +34,10 @@ log = logging.getLogger()
 
 
 def upload_and_link(conn, attachment, image):
+    fa = image.getAnnotation(ns=MIMETYPE)
+    if fa is not None:
+        log.warning("Found file annotation. Skipping upload")
+        return
     log.info("Uploading and linking %s to %s" % (attachment, image.getName()))
     fo = upload_ln_s(conn.c, attachment, OMERO_DATA_DIR, MIMETYPE)
     fa = FileAnnotationI()
@@ -71,7 +77,30 @@ def link_masks(conn, name):
             else:
                 mask_paths.append(mask_path)
                 upload_and_link(conn, mask_path, image)
+                rois = create_rois(mask_path)
+                save_rois(conn, image, rois)
     return mask_paths
+
+
+def create_rois(mask_path):
+    masks = masks_from_label_image(imread(mask_path))
+
+    rois = []
+    log.debug('Creating %d ROIs' % len(masks))
+    for mask in masks:
+        roi = omero.model.RoiI()
+        roi.addShape(mask)
+        rois.append(roi)
+    return rois
+
+
+def save_rois(conn, image, rois):
+    log.info('Creating %d ROIs for image %s' % (len(rois), image.name))
+    us = conn.getUpdateService()
+    for roi in rois:
+        roi.setImage(ImageI(image.id, False))
+        roi1 = us.saveAndReturnObject(roi)
+        assert roi1
 
 
 def check_unused_masks(mask_paths):
