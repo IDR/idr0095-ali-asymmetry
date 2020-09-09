@@ -78,6 +78,7 @@ def link_masks(conn, name):
                 mask_paths.append(mask_path)
                 upload_and_link(conn, mask_path, image)
                 rois = create_rois(mask_path)
+                delete_rois(conn, image)
                 save_rois(conn, image, rois)
     return mask_paths
 
@@ -102,6 +103,14 @@ def save_rois(conn, image, rois):
         roi.setImage(ImageI(image.id, False))
         roi1 = us.saveAndReturnObject(roi)
         assert roi1
+
+
+def delete_rois(conn, image):
+    result = conn.getRoiService().findByImage(image.id, None)
+    roi_ids = [x.getId().getValue() for x in result.rois]
+    if roi_ids:
+        log.info("Deleting existing {} rois".format(len(roi_ids)))
+        conn.deleteObjects("Roi", roi_ids, deleteChildren=True, wait=True)
 
 
 def check_unused_masks(mask_paths):
