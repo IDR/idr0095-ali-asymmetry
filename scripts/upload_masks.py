@@ -83,7 +83,8 @@ def link_masks(conn, name):
 
 
 def create_rois(mask_path):
-    masks = masks_from_label_image(imread(mask_path))
+    masks = masks_from_label_image(
+        imread(mask_path), rgba=(255, 255, 255, 128))
 
     rois = []
     log.debug('Creating %d ROIs' % len(masks))
