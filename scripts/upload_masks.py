@@ -34,7 +34,7 @@ log = logging.getLogger()
 
 
 def upload_and_link(conn, attachment, image):
-    fa = image.getAnnotation(ns=MIMETYPE)
+    fa = image.getAnnotation(ns=NAMESPACE)
     if fa is not None:
         log.warning("Found file annotation. Skipping upload")
         return
