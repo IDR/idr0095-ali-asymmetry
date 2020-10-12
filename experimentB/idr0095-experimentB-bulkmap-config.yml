@@ -1,0 +1,69 @@
+---
+name: idr0095-ali-asymmetry/experimentB
+version: 1
+
+defaults:
+  include: no
+  type: string
+  includeclient: yes
+  visible: yes
+  omitempty: yes
+
+columns:
+
+  - name: Experimental Condition [TF Gene Construct]
+    clientname: TF Gene Construct
+    include: yes
+
+  - name: TF Gene GenBank Identifier
+    clientname: TF Gene GenBank Identifier
+    include: yes
+
+  - name: Experimental Condition [Target Gene Construct]
+    clientname: Target Gene Construct
+    include: yes
+
+  - name: Target Gene GenBank Identifier
+    clientname: Target Gene GenBank Identifier
+    include: yes
+
+  - name: Experimental Condition [TF Operator]
+    clientname: TF Operator
+    include: yes
+
+  - name: Experimental Condition [Target Operator]
+    clientname: Target Operator
+    include: yes
+
+  - name: Experimental Condition [Degradation Tag]
+    clientname: Degradation Tag
+    include: yes
+
+  - name: Experimental Condition [Tag Peptide Sequence]
+    clientname: Tag Peptide Sequence
+    include: yes
+
+  - name: Experimental Condition [Growth Media]
+    clientname: Growth Media
+    include: yes
+
+
+
+  ######################################################################
+  # mapr groups
+  ######################################################################
+
+  - group:
+      namespace: openmicroscopy.org/mapr/organism
+      columns:
+        - name: Characteristics [Organism]
+          clientname: Organism
+          include: yes
+
+
+advanced:
+  ignore_missing_primary_key: yes
+  primary_group_keys:
+    - namespace: openmicroscopy.org/mapr/organism
+      keys:
+        - Organism
