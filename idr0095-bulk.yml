@@ -8,3 +8,4 @@ readers: readers.txt
 columns:
   - target
   - path
+  - name
