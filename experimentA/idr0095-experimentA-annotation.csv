@@ -49,5 +49,5 @@ AO1TOid_Trial2,4X,Escherichia coli,NCBITaxon,562,ybcN<>25XX+11-lacI-mcherry, MT
 AO1TOid_Trial2,5X,Escherichia coli,NCBITaxon,562,ybcN<>25XX+11-lacI-mcherry, MT726947,galK<>3*5XX+11-yfp,MT726948,O1,Oid,M9 Glucose ,Asymmetry with different opertors,5X,Raw,"Phase, mCherry, YFP"
 AO1TOid_Trial2,AO1TOid,Escherichia coli,NCBITaxon,562,ybcN<>25XX+11-lacI-mcherry, MT726947,galK<>3*5XX+11-yfp,MT726948,O1,Oid,M9 Glucose ,Asymmetry with different opertors,0X,Raw,"Phase, mCherry, YFP"
 AO1TOid_Trial2,ATNoO1V1,Escherichia coli,NCBITaxon,562,ybcN<>25XX+11-lacI-mcherry, MT726947,galK<>3*5XX+11-yfp,MT726948,noO1V1,noO1V1,M9 Glucose ,Asymmetry with different opertors,no,Raw,"Phase, mCherry, YFP"
-AO1TOid_Trial2,HG105,Escherichia coli,NCBITaxon,562,,,,,,,M9 Glucose ,Asymmetry with different opertors,HG,Raw,"Phase, mCherry, YFP"
+AO1TOid_Trial2,HG105,Escherichia coli,NCBITaxon,562,,,,,,,M9 Glucose ,Asymmetry with different opertors,HG105,Raw,"Phase, mCherry, YFP"
 AO1TOid_Trial2,Toid,Escherichia coli,NCBITaxon,562,,,galK<>3*5XX+11-yfp,MT726948,,Oid,M9 Glucose ,Asymmetry with different opertors,TO,Raw,"Phase, mCherry, YFP"
