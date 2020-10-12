@@ -1,36 +1,264 @@
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/AceT1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/AceT2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/AceT3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/GluT1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/GluT2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/GluT3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/GlyT1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/GlyT2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/GlyT3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/RDMT1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/RDMT2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5A_O1/RDMT3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/Ace_T1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/Ace_T2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/Ace_T3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/Glu_T1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/Glu_T2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/Glu_T3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/Gly_T1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/Gly_T2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/Gly_T3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/RDM_T1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDM_T1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/RDM_T2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDM_T2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5B_O2/RDM_T3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDM_T3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/Ace_T1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/Ace_T2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/Ace_T3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/Glu_T1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/Glu_T2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/Glu_T3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/Gly_T1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/Gly_T2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/Gly_T3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T3/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/RDM_T1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T1/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/RDM_T2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T2/
-Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Fig5C-Oid/RDM_T3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T3/
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT1/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT1/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT2/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT2/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT3/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT3/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GluT3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT1/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT1/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT2/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT2/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT3/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT3/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/AceT3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT1/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT1/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT2/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT2/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT3/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT3/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/GlyT3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT1/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT1/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT2/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT2/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT3/0X.nd2	ATO1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT3/no.nd2	NoO1V1
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O1_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5A_O1/RDMT3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T1/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T2/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T3/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Glu_T3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T1/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T2/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T3/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Ace_T3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T1/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T2/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T3/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/Gly_T3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT1/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT2/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT3/0X.nd2	ATO2
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:O2_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5B_O2/RDMT3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T1/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T2/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T3/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Glu_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Glu_T3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T1/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T2/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T3/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Ace_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Ace_T3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T1/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T2/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T3/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_Gly_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/Gly_T3/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T1/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T1/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T1/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T1/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T1/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T1/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial1	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T1/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T2/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T2/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T2/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T2/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T2/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T2/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial2	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T2/HG .nd2	HG105
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T3/1X.nd2	1X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T3/2X.nd2	2X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T3/3X.nd2	3X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T3/4X.nd2	4X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T3/5X.nd2	5X
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T3/0X.nd2	ATOid
+Project:name:idr0095-ali-asymmetry/experimentC/Dataset:name:Oid_RDM_Trial3	/uod/idr/filesets/idr0095-ali-asymmetry/20200831-ftp/Fig5C-Oid/RDM_T3/HG .nd2	HG105
