@@ -27,6 +27,8 @@ def rename_images(conn, name):
                 continue
             new_name = "%s [%s]" % (m.group("name"), m.group("series"))
             log.debug(f"Renaming {image_name} as {new_name}")
+            image.setName(new_name)
+            image.save()
 
 
 def main(argv):
