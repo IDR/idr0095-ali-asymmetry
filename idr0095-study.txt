@@ -32,15 +32,15 @@ Study Public Release Date	2020-11-19
 
 # Study Publication
 
-Study PubMed ID	
+Study PubMed ID	32808926
 
 Study Publication Title	Inherent regulatory asymmetry emanating from network architecture in a prevalent autoregulatory motif	
 
 Study Author List	Ali MZ, Parisutham V, Choubey S, Brewster RC
 
-Study PMC ID	
+Study PMC ID	PMC7505660
 
-Study DOI	
+Study DOI	10.7554/eLife.56517
 
 
 # Study Contacts			
