@@ -11,7 +11,7 @@ Study Type Term Source REF	EFO
 						
 Study Type Term Accession	EFO_0009864
 
-Study description	Predicting gene expression from DNA sequence remains a major goal in the field of gene regulation. A challenge to this goal is the connectivity of the network, whose role in altering gene expression remains unclear. Here, we study a common autoregulatory network motif, the negative single-input module, to explore the regulatory properties inherited from the motif. Using stochastic simulations and a synthetic biology approach in E. coli, we find that the TF gene and its target genes have inherent asymmetry in regulation, even when their promoters are identical; the TF gene being more repressed than its targets. The magnitude of asymmetry depends on network features such as network size and TF binding affinities. Intriguingly, asymmetry disappears when the growth rate is too fast or too slow and is most significant for typical growth conditions. These results highlight the importance of accounting for network architecture in quantitative models of gene expression.
+Study Description	Predicting gene expression from DNA sequence remains a major goal in the field of gene regulation. A challenge to this goal is the connectivity of the network, whose role in altering gene expression remains unclear. Here, we study a common autoregulatory network motif, the negative single-input module, to explore the regulatory properties inherited from the motif. Using stochastic simulations and a synthetic biology approach in E. coli, we find that the TF gene and its target genes have inherent asymmetry in regulation, even when their promoters are identical; the TF gene being more repressed than its targets. The magnitude of asymmetry depends on network features such as network size and TF binding affinities. Intriguingly, asymmetry disappears when the growth rate is too fast or too slow and is most significant for typical growth conditions. These results highlight the importance of accounting for network architecture in quantitative models of gene expression.
 
 Study Key Word	Quantitative gene regulation	Synthetic Biology	Systems Biology	Network motifs	Stochastic simulations	autoregulation
 
@@ -213,7 +213,7 @@ Experiment Number	3
 																								
 Comment[IDR Experiment Name]	idr0095-ali-asymmetry/experimentC	
 
-													Experiment Sample Type	cell				
+Experiment Sample Type	cell				
 
 
 Experiment Description	: Studying the asymmetry between TF and target gene when the protein dilution rate is altered by growing cells in different media. 
