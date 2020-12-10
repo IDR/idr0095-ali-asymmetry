@@ -81,7 +81,7 @@ Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:/
 Experiment Number	1																					
 Comment[IDR Experiment Name]	idr0095-ali-asymmetry/experimentA	
 
-Experiment Data DOI	​https://doi.org/10.17867/10000151a
+Experiment Data DOI	https://doi.org/10.17867/10000151a
 
 Experiment Sample Type	cell				
 
