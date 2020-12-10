@@ -71,7 +71,7 @@ Study Copyright	Ali et al
 
 Study Data Publisher	University of Dundee						
 
-Study Data DOI																			
+Study Data DOI	https://doi.org/10.17867/10000151																			
 
 Term Source Name	NCBITaxon	EFO	CMPO	FBbi			
 
@@ -80,6 +80,8 @@ Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:/
 # EXPERIMENT SECTION																				
 Experiment Number	1																					
 Comment[IDR Experiment Name]	idr0095-ali-asymmetry/experimentA	
+
+Experiment Data DOI	​https://doi.org/10.17867/10000151a
 
 Experiment Sample Type	cell				
 
@@ -145,6 +147,7 @@ Experiment Number	2
 														
 Comment[IDR Experiment Name]	idr0095-ali-asymmetry/experimentB	
 
+Experiment Data DOI	https://doi.org/10.17867/10000151b
 
 Experiment Sample Type	cell
 
@@ -212,6 +215,8 @@ Processed Data Column Link To Assay File	processed results file and assay file a
 Experiment Number	3
 																								
 Comment[IDR Experiment Name]	idr0095-ali-asymmetry/experimentC	
+
+Experiment Data DOI	https://doi.org/10.17867/10000151c
 
 Experiment Sample Type	cell				
 
